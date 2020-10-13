@@ -5,6 +5,7 @@ import matplotlib.patches as mpatches
 
 
 def visualize():
+    # this function plots covid19 data
     covid_data = pd.read_csv("./data/downloaded.csv")
 
     print(covid_data)
