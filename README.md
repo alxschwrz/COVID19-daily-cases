@@ -1,6 +1,8 @@
 # COVID19
 
-Simple script downloads and plots recent COVID-19 cases from JHU database.
+Super simple script, which downloads and plots recent COVID-19 cases from the JHU repository.
+New cases and 7-Day incidence are computed displayed. User can select a country and plot up-to-date 
+curves.
 
 
 ## Installation
