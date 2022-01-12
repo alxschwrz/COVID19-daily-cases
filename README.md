@@ -10,6 +10,6 @@ curves.
 
 ```bash
 git clone https://github.com/alxschwrz/COVID19.git
-cd COVID19
+cd COVID19-daily-cases
 pip3 install -r requirements.txt
 ```
