@@ -1,4 +1,4 @@
-# COVID19-daily.cases
+# COVID19-daily-cases
 
 Super simple script, which downloads and plots recent COVID-19 cases from the JHU repository.
 New cases and 7-Day incidence are computed and displayed. User can select a country and plot up-to-date 
