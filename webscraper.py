@@ -1,5 +1,4 @@
 # not really a webscraper
-import webbrowser
 import requests
 import os
 
