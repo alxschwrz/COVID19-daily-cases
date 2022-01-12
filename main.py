@@ -1,10 +1,10 @@
-import visualize
+import visualizer
 import webscraper
 
 
 def main():
-    webscraper.download()
-    visualize.visualize()
+    webscraper.download_JHU()
+    visualizer.visualize(country="Germany")
 
 
 if __name__ == "__main__":
