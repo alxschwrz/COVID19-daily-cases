@@ -9,6 +9,7 @@ from Countrydetails import country as countdet
 
 def visualize(country="Germany"):
     country = country
+    print("Printing daily cases for {}...".format(country))
     covid_df = pd.read_csv("./data/global_covid_cases.csv")
     days_since_outbreak = len(covid_df.columns[4:])
     # dates = covid_df.columns[4:].to_list()
